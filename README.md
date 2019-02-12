@@ -53,6 +53,7 @@ test_srv:
     # check section-from-path in cgit docs
     CGIT_SECTION_FROM_STARTPATH: 0
     CGIT_MAX_REPO_COUNT_PER_PAGE: 50
+    CGIT_CLONE_URL: ''
 ```
 
 ### Cache
